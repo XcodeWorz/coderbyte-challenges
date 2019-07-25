@@ -1,5 +1,4 @@
-// objective:
-// Take the str parameter being passed & return the string true if there
+// objective: Take the str parameter being passed & return the string true if there
 // is an equal number of x's and o's, otherwise return the string false
 // Only these two letters will be entered in the string, no punctuation or numbers
 
@@ -47,6 +46,6 @@ const ExOh = (str) => {
 };
 */
 
-console.log(ExOh('xoxxox'));
+// console.log(ExOh('xoxxox'));
 const r1 = 'false';
 assert(r1);
